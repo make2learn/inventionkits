@@ -1,2 +1,3 @@
 # inventionkits
-Part of the Smithsonian's American Innovations in an Age of Discovery project.
+
+The Smithsonian’s National Museum of American History is collaborating with the University of Virginia, Princeton University, the Laboratory School for Advanced Manufacturing to research and develop a science and engineering curriculum. 
